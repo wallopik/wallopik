@@ -1,20 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm wallopik!
 
----
+I'm a backend enthusiast exploring **network technologies**, **systems architecture**, and learning to write clean and efficient **Java** code.
 
-123
+## 🛠️ Tech Stack
+- **Learning**: Java  
+- **Also using**: Python  
+- **Tools**: Git, Docker, IntelliJ IDEA, Maven, Gradle  
 
-<!--
-**wallopik/wallopik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Languages
+- 🇷🇺 Russian – native  
+- 🇬🇧 English – below basic  
 
-Here are some ideas to get you started:
+## 🚧 Current Projects
+- 🔧 SwiftHost  
+- 🧵 FabricVanilla  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📇 Bio & Contacts
+More about me: [tap](https://e-z.bio/wallopik)
