@@ -1,17 +1,16 @@
 # 👋 Hi there, I'm wallopik!
 
-I'm a backend enthusiast exploring **network technologies**, **systems architecture**, and learning to write clean and efficient **Java** code.
+I'm a backend enthusiast exploring **network technologies**, **systems architecture**.
 
 ## 🛠️ Tech Stack
-- **Also using**: Python  
-- **Tools**: Git, Docker, IntelliJ IDEA, Maven, Gradle  
+- **Tools**: Git, Docker
 
 ## 🌐 Languages
 - 🇷🇺 Russian – native  
 - 🇬🇧 English – below basic  
 
 ## 🚧 Current Projects
-- 🔧 ResMesh
+- 🔧 PGW
 
 ## 📇 Bio & Contacts
 More about me: [tap](https://e-z.bio/wallopik)
